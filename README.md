@@ -16,11 +16,12 @@
 
 ##### ConnectDatabase项目：
 
-AutoMapper.Extensions.Microsoft.DependencyInjection
+- AutoMapper.Extensions.Microsoft.DependencyInjection
 
-Microsoft.EntityFrameworkCore.Design
+- Microsoft.EntityFrameworkCore.Design
 
-Swashbuckle.AspNetCore
+- Swashbuckle.AspNetCore
+
 
 
 
